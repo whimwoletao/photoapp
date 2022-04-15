@@ -1,1 +1,5 @@
-<?php header( ‘Location: index-dark.html’ ) ; ?>
+
+
+
+
+<?php header( ‘Location: /index-dark.html’ ) ; ?>
